@@ -1,0 +1,22 @@
+{
+  "name": "api-tasks-streams",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "modules",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSilvaSouzaD/api-tasks-streams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSilvaSouzaD/api-tasks-streams/issues"
+  },
+  "homepage": "https://github.com/LucasSilvaSouzaD/api-tasks-streams#readme",
+  "description": ""
+}
